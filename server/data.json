@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "isbn": "9786020320001",
+        "judul": "Belajar Python Dasar",
+        "tahun_terbit": 2020
+    },
+    {
+        "id": 2,
+        "isbn": "9786020320002",
+        "judul": "Pemrograman Web Modern",
+        "tahun_terbit": 2021
+    },
+    {
+        "id": 3,
+        "isbn": "9786020320003",
+        "judul": "Dasar-Dasar Algoritma",
+        "tahun_terbit": 2019
+    },
+    {
+        "id": 4,
+        "isbn": "9786020320004",
+        "judul": "Struktur Data dengan Python",
+        "tahun_terbit": 2022
+    },
+    {
+        "id": 5,
+        "isbn": "9786020320005",
+        "judul": "Belajar FastAPI",
+        "tahun_terbit": 2023
+    },
+    {
+        "id": 6,
+        "isbn": "9786020320006",
+        "judul": "Basis Data untuk Pemula",
+        "tahun_terbit": 2020
+    },
+    {
+        "id": 7,
+        "isbn": "9786020320007",
+        "judul": "Pemrograman Java Dasar",
+        "tahun_terbit": 2018
+    },
+    {
+        "id": 8,
+        "isbn": "9786020320008",
+        "judul": "Pengembangan Aplikasi Web",
+        "tahun_terbit": 2021
+    },
+    {
+        "id": 9,
+        "isbn": "9786020320009",
+        "judul": "Machine Learning Dasar",
+        "tahun_terbit": 2024
+    },
+    {
+        "id": 10,
+        "isbn": "9786020320010",
+        "judul": "Jaringan Komputer",
+        "tahun_terbit": 2019
+    },
+    {
+        "id": 11,
+        "isbn": "9786020320011",
+        "judul": "Sistem Operasi",
+        "tahun_terbit": 2017
+    },
+    {
+        "id": 12,
+        "isbn": "9786020320012",
+        "judul": "Rekayasa Perangkat Lunak",
+        "tahun_terbit": 2022
+    }
+]
